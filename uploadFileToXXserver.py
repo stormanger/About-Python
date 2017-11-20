@@ -7,7 +7,7 @@ import os
 target_path = '/home'
 #target_path = '/tmp'
 target_server = '192.168.0.1'
-target_user = 'gpu1'
+target_user = 'ubuntu'
 
 source = input('Please input source path:')
 
